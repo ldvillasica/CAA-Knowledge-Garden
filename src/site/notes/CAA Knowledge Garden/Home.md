@@ -8,4 +8,5 @@ This is the official repository of the College of Agriculture and Agri-Industrie
 
 ## General Instruction
 - Click "search" and use keywords to  check for research related to your work
-- You can use side bar to check per year
+- You can use left side bar to check per year
+- Or, follow the Graph on the right side bar by year and also as arrange below
