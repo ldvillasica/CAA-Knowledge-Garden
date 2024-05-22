@@ -7,5 +7,4 @@ This is the official repository of the College of Agriculture and Agri-Industrie
 
 ## General Instruction
 - Click "search" and use keywords to  check for research related to your work
-
-[[CAA Knowledge Garden/Abstract 1\|Abstract 1]]
+- You can use side bar to check per year
