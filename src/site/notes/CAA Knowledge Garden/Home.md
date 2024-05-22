@@ -7,5 +7,3 @@ This is the official repository of the College of Agriculture and Agri-Industrie
 
 ## General Instruction
 - Click "search" and use keywords to  check for research related to your work
-
-$E=mc^2$
