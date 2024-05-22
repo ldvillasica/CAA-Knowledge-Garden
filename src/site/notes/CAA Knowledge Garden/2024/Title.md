@@ -3,10 +3,12 @@
 ---
 
 # Title
-*Authors*
+*Student Name's*
+Major:
 ## Abstract
 content
 
 *Keywords*:
 
-**For More Information**: Adviser Email Address
+**Adviser**:
+**e-mail address**:
