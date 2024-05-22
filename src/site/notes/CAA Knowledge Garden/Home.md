@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/caa-knowledge-garden/home/","tags":["gardenEntry"],"created":"2024-05-22T15:15:08.971+08:00"}
 ---
 
-# About
+# College of Agriculture and Agri-Industries Knowledge Garden
+## About
 This is the official repository of the College of Agriculture and Agri-Industries (CAA) Student Research (Abstract Only)
 
 ## General Instruction
