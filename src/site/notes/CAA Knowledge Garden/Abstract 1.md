@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/caa-knowledge-garden/abstract-1/","created":"2024-05-22T21:08:50.972+08:00"}
+---
+
+# Methods Assessment for Macro- and Meso-Aggregate Stability Determination using selected soils in Caraga Region
+
+## Abstract
+Understanding soil aggregate stability is fundamental for assessing soil health and promoting sustainable land management practices. This study evaluated the macro and meso-aggregate stability and assessed the methods for determining it. A selection of representative soil samples from various locations, including Dinagat, Nongnong, and San Miguel within the Caraga region, was collected and subjected to aggregate stability analysis.
+In macro-aggregate stability determination using the slakes method, Dinagat exhibited the highest mean Aggregate Stability Index (ASI) value at 0.81, indicating good aggregate stability compared to the other locations.On the otherhand, for meso-aggregate stability using the water stable aggregate method, Nongnong generally exhibited a lesser coefficient variation of 0.16 compared to Dinagat (0.84) and San Miguel (1.63). However, locations and treatments showed no significant effect, as evidenced by the p-values of 0.77 and 0.70, respectively. Furthermore, when comparing treatments within each location, Dinagat presented a higher aggregate stability index in treatment 1 (control), showing a significant decline in Treatment 2 (Trichoderma) from an estimated 0.78 to 0.20. Treatment 3 (Bacillus) and Treatment 4 (Trichoderma), along with Treatment 8 (Trichoderma, Bacillus, AMF), consistently exhibited an ASI value of 0.30. Similarly, Nongnong showed the highest ASI value of 0.38 in Treatment 2 (Trichoderma), while San Miguel indicated the greatest ASI value of 0.60 in Treatment 2 (Trichoderma), which appeared to be the highest average aggregate stability index among all treatments.
+
+*Keywords:* #Aggregate #stability #index, #Water- #stable #aggregate, #Slakes
