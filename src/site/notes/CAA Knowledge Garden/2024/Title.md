@@ -3,7 +3,7 @@
 ---
 
 # Title
-*Student Name's*
+*Student Name/s*
 Major:
 ## Abstract
 content
