@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caa-knowledge-garden/home/","tags":["gardenEntry"],"created":"2024-05-22T15:15:08.971+08:00"}
+{"dg-publish":true,"permalink":"/caa-knowledge-garden/home/","hide":"true","tags":["gardenEntry"],"created":"2024-05-22T15:15:08.971+08:00"}
 ---
 
 # College of Agriculture and Agri-Industries Knowledge Garden
