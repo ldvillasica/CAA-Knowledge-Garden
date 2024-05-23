@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/garden-of-abstract/2024/soil-science-cabangil/","created":"2024-05-23T17:27:04.420+08:00"}
 ---
 
-# OPTIMIZATION OF BIOCHAR AS A CARRIER FOR ***Trichoderma harzianum****
+# OPTIMIZATION OF BIOCHAR AS A CARRIER FOR ***Trichoderma harzianum***
 *GERALD JUNE Y. CABANGIL*
 Major: Soil Science #soils 
 ## Abstract
