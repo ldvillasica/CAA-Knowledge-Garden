@@ -10,7 +10,7 @@ Large ruminant production in the Philippines plays a vital role in contributing 
 
 *Keywords*: #Large #ruminant #feed #sources #management #practices #forage
 
-**Adviser**: Isabel E. Bihag
-**e-mail**: iebihag@carsu.edu.ph
+### Adviser: Isabel E. Bihag
+### e-mail: iebihag@carsu.edu.ph
 
 Back to [[Garden of Abstract/Home\|Home]]
