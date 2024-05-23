@@ -15,10 +15,4 @@
 > [!IMPORTANT] Start your harvest now!
 > Always remember to give credit to the original authors of the study.
 
-## Category
-#horti 
-#agron 
-#cropprot
-#agecon
-#soilsci 
-#ansci
+## Categories
