@@ -12,3 +12,5 @@ Chayote (*Sechium edule*) is popularly known as “sayote” in the Philippines.
 
 **Adviser**: Febie T. Paglinawan
 **e-mail**: ftpaglinawan@carsu.edu.ph
+
+Back to [[Garden of Abstract/Home\|Home]]
