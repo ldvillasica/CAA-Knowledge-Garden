@@ -10,7 +10,7 @@ Poultry are vulnerable to various parasitic diseases, with ectoparasite infestat
 
 *Keywords*: #Neem #leaf #extract, #Poultry #wing #lice, #cypermethrin, #phytochemical analysis
 
-**Adviser**: Isabel E. Bihag
-**e-mail**: iebihag@carsu.edu.ph
+### Adviser: Isabel E. Bihag
+### e-mail: iebihag@carsu.edu.ph
 
 Back to [[Garden of Abstract/Home\|Home]]
