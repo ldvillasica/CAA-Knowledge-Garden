@@ -12,3 +12,5 @@ Large ruminant production in the Philippines plays a vital role in contributing 
 
 **Adviser**: Isabel E. Bihag
 **e-mail**: iebihag@carsu.edu.ph
+
+Back to [[Garden of Abstract/Home\|Home]]
