@@ -10,7 +10,7 @@ Sweetpotato yields have a potential increase with appropriate and effective crop
 
 *Keywords*: #NPK #fertilization #Timing #Rates #Application #NSIC #Sp25
 
-**Adviser**: Ianil B. Manguruban
-**e-mail**: ibmanguruban@carsu.edu.ph
+### Adviser: Ianil B. Manguruban
+### e-mail: ibmanguruban@carsu.edu.ph
 
 Back to [[Garden of Abstract/Home\|Home]]
