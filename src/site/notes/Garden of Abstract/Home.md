@@ -4,8 +4,8 @@
 
 # College of Agriculture and Agri-Industries Knowledge Garden
 ## About
-This is the official repository of the College of Agriculture and Agri-Industries (CAA) Student Research (Abstract Only)
+- [I] This is the official repository of the College of Agriculture and Agri-Industries (CAA) Student Research (Abstract Only)
 
 ## General Instruction
-- Click "search" and use keywords to  check for research related to your work
-- You can use left side bar to check per year
+- [x] Click "search" and use keywords to  check for research related to your work
+- [x] You can use left side bar to check per year
