@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden-of-abstract/2024/agronomy-alamo/","tags":["agron"],"created":"2024-05-23T14:31:37.762+08:00"}
+{"dg-publish":true,"permalink":"/garden-of-abstract/2024/agronomy-alamo/","created":"2024-05-23T14:31:37.762+08:00"}
 ---
 
 # GROWTH AND YIELD RESPONSE OF SWEETPOTATO (***Ipomoea batatas*** L. LAM) TO THE TIMING AND RATES OF NPK APPLICATION
