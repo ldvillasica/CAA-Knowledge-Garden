@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden-of-abstract/2024/horticulture-agustin/","tags":["horticulture"],"created":"2024-05-22T21:38:30.976+08:00"}
+{"dg-publish":true,"permalink":"/garden-of-abstract/2024/horticulture-agustin/","tags":["horti"],"created":"2024-05-22T21:38:30.976+08:00"}
 ---
 
 # INFLUENCE OF PACKAGING MATERIALS ON THE POSTHARVEST QUALITY AND SHELF-LIFE OF BITTER GOURD (***Momordica charantia*** VAR. GALAXY MAX F1) STORED UNDER AMBIENT CONDITION
