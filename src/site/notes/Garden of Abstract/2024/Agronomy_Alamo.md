@@ -12,3 +12,5 @@ Sweetpotato yields have a potential increase with appropriate and effective crop
 
 **Adviser**: Ianil B. Manguruban
 **e-mail**: ibmanguruban@carsu.edu.ph
+
+Back to [[Garden of Abstract/Home\|Home]]
