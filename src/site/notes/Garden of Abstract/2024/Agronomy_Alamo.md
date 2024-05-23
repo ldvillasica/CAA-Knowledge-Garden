@@ -11,4 +11,4 @@ Sweetpotato yields have a potential increase with appropriate and effective crop
 *Keywords*: #NPK #fertilization #Timing #Rates #Application #NSIC #Sp25
 
 **Adviser**: Ianil B. Manguruban
-**e-mail address**: ibmanguruban@carsu.edu.ph
+**e-mail**: ibmanguruban@carsu.edu.ph
