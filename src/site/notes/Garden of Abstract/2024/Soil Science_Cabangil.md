@@ -10,7 +10,7 @@ In recent years, the use of biological control as an alternative method for dise
 
 *Keywords*: #viability #viable #cells #CFU #survival #population #density #chemical #properties #optimum #nutrient #availability
 
-**Adviser**: Reuben James C. Rollon
-**e-mail**: rcrollon@carsu.edu.ph
+### Adviser: Reuben James C. Rollon
+### e-mail: rcrollon@carsu.edu.ph
 
 Back to [[Garden of Abstract/Home\|Home]]
