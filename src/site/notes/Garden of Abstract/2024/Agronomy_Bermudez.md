@@ -10,7 +10,7 @@ Nitrogen is an essential nutrient for rice growth and metabolism. Planting dista
 
 *Keywords*: #Planting #distance #nitrogen #rates #nitrogen #use #efficiency #NUE, #NSIC #Rc160
 
-**Adviser**: Ianil B. Manguruban
-**e-mail**: ibmanguruban@carsu.edu.ph
+### Adviser: Ianil B. Manguruban
+### e-mail: ibmanguruban@carsu.edu.ph
 
 Back to [[Garden of Abstract/Home\|Home]]
