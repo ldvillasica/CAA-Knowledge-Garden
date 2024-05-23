@@ -10,7 +10,7 @@ Chayote (*Sechium edule*) is popularly known as “sayote” in the Philippines.
 
 *Keywords*: #plastic #crates #polysack #bags #sprouting #net #bag #polyethylene #bag
 
-> [!NOTE] **Adviser:** Febie T. Paglinawan
+> [!INFO] **Adviser:** Febie T. Paglinawan
 > e-mail: ftpaglinawan@carsu.edu.ph
 
 Back to [[Garden of Abstract/Home\|Home]]
