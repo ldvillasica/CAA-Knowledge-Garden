@@ -10,7 +10,7 @@ The supply chain of citronella and lemongrass in the Caraga Region was documente
 
 *Keywords*: #supply #chain, #citronella, #lemongrass, #Caraga #Region, #Philippines
 
-**Adviser**: Raquel M. Balanay
-**e-mail**: rmbalanay@carsu.edu.ph
+### Adviser: Raquel M. Balanay
+### e-mail: rmbalanay@carsu.edu.ph
 
 Back to [[Garden of Abstract/Home\|Home]]
