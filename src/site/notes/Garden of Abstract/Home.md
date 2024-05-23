@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden-of-abstract/home/","hide":"true","tags":["gardenEntry"],"created":"2024-05-22T15:15:08.971+08:00"}
+{"dg-publish":true,"permalink":"/garden-of-abstract/home/","pinned":"true","tags":["gardenEntry"],"created":"2024-05-22T15:15:08.971+08:00"}
 ---
 
 # College of Agriculture and Agri-Industries Knowledge Garden
