@@ -10,7 +10,7 @@ The poultry industry is vulnerable to the adverse effects of climate change, whi
 
 *Keywords*: #VAST #agro #tool, #Vulnerability, #Exposure, #Sensitivity, #Adaptive #Capacity
 
-**Adviser**: Rex G. Parro
-**e-mail**: rgparro@carsu.edu.ph
+### Adviser: Rex G. Parro
+### e-mail: rgparro@carsu.edu.ph
 
 Back to [[Garden of Abstract/Home\|Home]]
