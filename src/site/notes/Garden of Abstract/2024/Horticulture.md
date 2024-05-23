@@ -6,8 +6,7 @@
 *RACQUEL AGUSTIN*
 Major: Horticulture
 ## Abstract
-Bitter gourd, also known as *Momordica charantia*, is a tropical vine that belongs to the
-Cucurbitaceae family. Due to its high perishability and susceptibility to senescence, bitter
+Bitter gourd, also known as Momordica charantia, is a tropical vine that belongs to the Cucurbitaceae family. Due to its high perishability and susceptibility to senescence, bitter
 gourds can exhibit early indicators of softening, yellowing, and weight loss. This study was
 conducted to evaluate the postharvest quality and shelf life of bitter gourd, investigate the
 chemical characteristics and evaluate the effects of bitter gourd as influenced by different
