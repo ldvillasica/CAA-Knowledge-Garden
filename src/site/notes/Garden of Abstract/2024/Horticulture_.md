@@ -8,7 +8,7 @@ Major:
 ## Abstract
 content
 
-*Keywords*: [[MAP\|MAP]] 
+*Keywords*: #MAP 
 
 **Adviser**:
 **e-mail address**:
