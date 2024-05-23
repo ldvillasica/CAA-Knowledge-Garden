@@ -14,3 +14,6 @@
 
 > [!IMPORTANT] Start your harvest now!
 > Always remember to give credit to the original authors of the study.
+
+## Category
+#horticulture 
