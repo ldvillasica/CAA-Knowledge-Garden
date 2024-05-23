@@ -10,7 +10,7 @@ The study was conducted to evaluate the growth and yield performance of kangkong
 
 *Keywords*: #Snap #solution, #Vermitea, #Fish #amino #acid, #Ferment, #Kuhol #amino #acid
 
-**Adviser**: Grace C. Olar
-**e-mail**: gcolar@carsu.edu.ph
+### Adviser: Grace C. Olar
+### e-mail: gcolar@carsu.edu.ph
 
 Back to [[Garden of Abstract/Home\|Home]]
