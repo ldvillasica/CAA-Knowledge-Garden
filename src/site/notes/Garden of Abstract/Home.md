@@ -9,3 +9,7 @@
 ## General Instruction
 - [x] Click "search" and use keywords to  check for research related to your work
 - [x] You can use left side bar to check per year
+
+
+> [!IMPORTANT] Start your harvest now!
+> Always remember to give credit to the original authors of the study.
