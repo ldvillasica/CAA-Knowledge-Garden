@@ -11,4 +11,4 @@ Bitter gourd, also known as *Momordica charantia*, is a tropical vine that belon
 *Keywords*: #MAP #shelflife #postharvest #losses #quality #storage #ldpe
 
 **Adviser**: Febie T. Paglinawan
-**e-mail address**: ftpaglinawan@carsu.edu.ph
+**e-mail**: ftpaglinawan@carsu.edu.ph
